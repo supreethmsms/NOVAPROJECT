@@ -20,6 +20,7 @@ public class CollectionsArrauList {
 		//	Create Array list object 
 		ArrayList obj=new  ArrayList();
 		obj.add(1);
+		obj.add(2);
 		obj.add("supreeth");
 		obj.add("TEST");
 	    System.out.println(obj.size());
