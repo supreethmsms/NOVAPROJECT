@@ -21,6 +21,7 @@ public class CollectionsArrauList {
 		ArrayList obj=new  ArrayList();
 		obj.add(1);
 		obj.add(2);
+		obj.add("string");
 		obj.add("supreeth");
 		obj.add("TEST");
 	    System.out.println(obj.size());
